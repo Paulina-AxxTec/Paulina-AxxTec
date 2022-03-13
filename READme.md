@@ -25,4 +25,5 @@
 
    <p> https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md#demonstra%C3%A7%C3%A3o </p>
    <p> https://ileriayo.github.io/markdown-badges/</p>
+   <p> https://github.com/felipegalvao</p>
 </div>
